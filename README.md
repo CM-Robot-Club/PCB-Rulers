@@ -15,4 +15,4 @@
 ## 细节
 ![Top_2](https://github.com/CM-Robot-Club/PCB-Rulers/blob/master/Top_2.jpg)
 ![Bottom_2](https://github.com/CM-Robot-Club/PCB-Rulers/blob/master/Bottom_2.jpg)
-!BGA2](https://github.com/CM-Robot-Club/PCB-Rulers/blob/master/BGA.jpg)
+![BGA2](https://github.com/CM-Robot-Club/PCB-Rulers/blob/master/BGA.jpg)
