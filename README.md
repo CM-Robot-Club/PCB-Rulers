@@ -8,3 +8,11 @@
 # 渲染图
 ![Top](https://github.com/CM-Robot-Club/PCB-Rulers/blob/master/Top.png)
 ![Bottom](https://github.com/CM-Robot-Club/PCB-Rulers/blob/master/Bottom.png)
+
+# 实物图
+![Top_1](https://github.com/CM-Robot-Club/PCB-Rulers/blob/master/Top_1.jpg)
+![Bottom_1](https://github.com/CM-Robot-Club/PCB-Rulers/blob/master/Bottom_1.jpg)
+## 细节
+![Top_2](https://github.com/CM-Robot-Club/PCB-Rulers/blob/master/Top_2.jpg)
+![Bottom_2](https://github.com/CM-Robot-Club/PCB-Rulers/blob/master/Bottom_2.jpg)
+!BGA2](https://github.com/CM-Robot-Club/PCB-Rulers/blob/master/BGA.jpg)
